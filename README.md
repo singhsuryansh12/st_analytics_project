@@ -1,2 +1,2 @@
 # st_analytics_project
-The Spoken Tutorial Log and Analytics Projects based on Django under FOSSEE
+The Spoken Tutorial Event Logs and Analytics System Project based on Django under FOSSEE
